@@ -7,5 +7,5 @@
     'JavaScript',
     'Bootstrap',
     'Java',
-    'C#'
+    'C#',
   ];
